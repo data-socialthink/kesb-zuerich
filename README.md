@@ -13,5 +13,5 @@ Hier findest du einen Zusammenzug der KESB-Kennzahlen.
 _<sup>1</sup>Gemäss KESB-Kennzahlenbericht:
 https://kesb-zh.ch/medienmitteilungen-2/_
 
-_<sup>2</sup>Gemäss Bundesamt für Statistik, ständige + nicht-ständige Wohnbevölkerung mit Alter 0-17
+_<sup>2</sup>Gemäss Bundesamt für Statistik, ständige + nicht-ständige Wohnbevölkerung mit Alter 0-17 im Kanton Zürich
 https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-0102010000_101/px-x-0102010000_101/px-x-0102010000_101.px_
