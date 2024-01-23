@@ -1,12 +1,13 @@
 # kesb-zuerich
 ## Variablen
-- Anzahl minderjährige Personen mit Massnahmen 31. Dez.
-- Anordnungen Massnahmen bei minderjährigen Personen
-- Aufhebung Massnahmen bei minderjährigen Personen
-- Minderjährige Personen mit Massnahmen im Verhältnis zur Bevölkerung (minderjährige Personen)
-- Anzahl Unterbringung Minderjähriger 31. Dez.
-- Anordnung Unterbringung Minderjähriger 31. Dez.
-- Aufhebungen Unterbringung Minderjähriger 31. Dez.
-- Bevölkerung 0-17 Jahre<sup>1</sup>
+- Anzahl minderjährige Personen mit Massnahmen 31. Dez.<sup>1</sup>
+- Anordnungen Massnahmen bei minderjährigen Personen<sup>1</sup>
+- Aufhebung Massnahmen bei minderjährigen Personen<sup>1</sup>
+- Minderjährige Personen mit Massnahmen im Verhältnis zur Bevölkerung (minderjährige Personen)<sup>1</sup>
+- Anzahl Unterbringung Minderjähriger 31. Dez.<sup>1</sup>
+- Anordnung Unterbringung Minderjähriger 31. Dez.<sup>1</sup>
+- Aufhebungen Unterbringung Minderjähriger 31. Dez.<sup>1</sup>
+- Bevölkerung 0-17 Jahre<sup>2</sup>
 
-_<sup>1</sup>Gemäss Bundesamt für Statistik, ständige + nicht-ständige Wohnbevölkerung mit Alter 0-17_
+_<sup>1</sup>Gemäss KESB-Kennzahlenbericht: https://kesb-zh.ch/medienmitteilungen-2/_
+_<sup>2</sup>Gemäss Bundesamt für Statistik, ständige + nicht-ständige Wohnbevölkerung mit Alter 0-17_
