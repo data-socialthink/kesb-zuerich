@@ -1,5 +1,5 @@
 # kesb-zuerich
-Hier findest du einen Zusammenzug der KESB-Kennzahlen. Die Tabelle findest du [hier](https://github.com/data-socialthink/kesb-zuerich/blob/main/Kennzahlen%20KESB.csv) und im maschinenlesbarer Form [hier](https://raw.githubusercontent.com/data-socialthink/kesb-zuerich/main/Kennzahlen%20KESB.csv).
+Hier findest du einen Zusammenzug der KESB-Kennzahlen. Die Tabelle findest du [hier](https://github.com/data-socialthink/kesb-zuerich/blob/main/Kennzahlen%20KESB.csv) und in maschinenlesbarer Form [hier](https://raw.githubusercontent.com/data-socialthink/kesb-zuerich/main/Kennzahlen%20KESB.csv).
 ## Variablen
 - Anzahl minderjährige Personen mit Massnahmen 31. Dez.<sup>1</sup>
 - Anordnungen Massnahmen bei minderjährigen Personen<sup>1</sup>
