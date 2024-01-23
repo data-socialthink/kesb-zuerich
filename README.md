@@ -8,4 +8,5 @@
 - Anordnung Unterbringung Minderjähriger 31. Dez.
 - Aufhebungen Unterbringung Minderjähriger 31. Dez.
 - Bevölkerung 0-17 Jahre<sup>1</sup>
+
 _<sup>1</sup>Gemäss Bundesamt für Statistik, ständige + nicht-ständige Wohnbevölkerung mit Alter 0-17_
