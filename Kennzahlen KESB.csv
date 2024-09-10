@@ -35,24 +35,24 @@ Jahr,Indikator,Wert
 2020,Anzahl Unterbringung Minderjähriger 31. Dez.,775
 2021,Anzahl Unterbringung Minderjähriger 31. Dez.,760
 2022,Anzahl Unterbringung Minderjähriger 31. Dez.,782
-2014,Anordnung Unterbringung Minderjähriger 31. Dez.,247
-2015,Anordnung Unterbringung Minderjähriger 31. Dez.,241
-2016,Anordnung Unterbringung Minderjähriger 31. Dez.,205
-2017,Anordnung Unterbringung Minderjähriger 31. Dez.,218
-2018,Anordnung Unterbringung Minderjähriger 31. Dez.,227
-2019,Anordnung Unterbringung Minderjähriger 31. Dez.,258
-2020,Anordnung Unterbringung Minderjähriger 31. Dez.,255
-2021,Anordnung Unterbringung Minderjähriger 31. Dez.,235
-2022,Anordnung Unterbringung Minderjähriger 31. Dez.,264
-2014,Aufhebungen Unterbringung Minderjähriger 31. Dez.,230
-2015,Aufhebungen Unterbringung Minderjähriger 31. Dez.,308
-2016,Aufhebungen Unterbringung Minderjähriger 31. Dez.,264
-2017,Aufhebungen Unterbringung Minderjähriger 31. Dez.,277
-2018,Aufhebungen Unterbringung Minderjähriger 31. Dez.,231
-2019,Aufhebungen Unterbringung Minderjähriger 31. Dez.,259
-2020,Aufhebungen Unterbringung Minderjähriger 31. Dez.,247
-2021,Aufhebungen Unterbringung Minderjähriger 31. Dez.,250
-2022,Aufhebungen Unterbringung Minderjähriger 31. Dez.,242
+2014,Anordnung Unterbringung Minderjähriger,247
+2015,Anordnung Unterbringung Minderjähriger,241
+2016,Anordnung Unterbringung Minderjähriger,205
+2017,Anordnung Unterbringung Minderjähriger,218
+2018,Anordnung Unterbringung Minderjähriger,227
+2019,Anordnung Unterbringung Minderjähriger,258
+2020,Anordnung Unterbringung Minderjähriger,255
+2021,Anordnung Unterbringung Minderjähriger,235
+2022,Anordnung Unterbringung Minderjähriger,264
+2014,Aufhebungen Unterbringung Minderjähriger,230
+2015,Aufhebungen Unterbringung Minderjähriger,308
+2016,Aufhebungen Unterbringung Minderjähriger,264
+2017,Aufhebungen Unterbringung Minderjähriger,277
+2018,Aufhebungen Unterbringung Minderjähriger,231
+2019,Aufhebungen Unterbringung Minderjähriger,259
+2020,Aufhebungen Unterbringung Minderjähriger,247
+2021,Aufhebungen Unterbringung Minderjähriger,250
+2022,Aufhebungen Unterbringung Minderjähriger,242
 2014,Bevölkerung 0-17 Jahre,257061
 2015,Bevölkerung 0-17 Jahre,261811
 2016,Bevölkerung 0-17 Jahre,266150
@@ -62,3 +62,10 @@ Jahr,Indikator,Wert
 2020,Bevölkerung 0-17 Jahre,280146
 2021,Bevölkerung 0-17 Jahre,283384
 2022,Bevölkerung 0-17 Jahre,288370
+2023,Anzahl minderjährige Personen mit Massnahmen 31. Dez.,8449
+2023,Anordnungen Massnahmen bei minderjährigen Personen,2232
+2023,Aufhebung Massnahmen bei minderjährigen Personen,1942
+2023,Anzahl Unterbringung Minderjähriger 31. Dez.,753
+2023,Anordnung Unterbringung Minderjähriger,199
+2023,Aufhebungen Unterbringung Minderjähriger,228
+2023,Bevölkerung 0-17 Jahre,286526 
