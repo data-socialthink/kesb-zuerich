@@ -6,8 +6,8 @@ Hier findest du einen Zusammenzug der KESB-Kennzahlen. Die Tabelle findest du [h
 - Aufhebung Massnahmen bei minderjährigen Personen<sup>1</sup>
 - Minderjährige Personen mit Massnahmen im Verhältnis zur Bevölkerung (minderjährige Personen)<sup>1</sup>
 - Anzahl Unterbringung Minderjähriger 31. Dez.<sup>1</sup>
-- Anordnung Unterbringung Minderjähriger 31. Dez.<sup>1</sup>
-- Aufhebungen Unterbringung Minderjähriger 31. Dez.<sup>1</sup>
+- Anordnung Unterbringung Minderjähriger<sup>1</sup>
+- Aufhebungen Unterbringung Minderjähriger<sup>1</sup>
 - Bevölkerung 0-17 Jahre<sup>2</sup>
 
 _<sup>1</sup>Gemäss KESB-Kennzahlenbericht:
